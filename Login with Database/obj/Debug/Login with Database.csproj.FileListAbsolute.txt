@@ -1,0 +1,10 @@
+C:\Users\jeste\Documents\Personal Programming Projects\Login with Database\Login with Database\bin\Debug\Login with Database.exe.config
+C:\Users\jeste\Documents\Personal Programming Projects\Login with Database\Login with Database\bin\Debug\Login with Database.exe
+C:\Users\jeste\Documents\Personal Programming Projects\Login with Database\Login with Database\bin\Debug\Login with Database.pdb
+C:\Users\jeste\Documents\Personal Programming Projects\Login with Database\Login with Database\obj\Debug\Login with Database.csprojAssemblyReference.cache
+C:\Users\jeste\Documents\Personal Programming Projects\Login with Database\Login with Database\obj\Debug\Login_with_Database.Form1.resources
+C:\Users\jeste\Documents\Personal Programming Projects\Login with Database\Login with Database\obj\Debug\Login_with_Database.Properties.Resources.resources
+C:\Users\jeste\Documents\Personal Programming Projects\Login with Database\Login with Database\obj\Debug\Login with Database.csproj.GenerateResource.cache
+C:\Users\jeste\Documents\Personal Programming Projects\Login with Database\Login with Database\obj\Debug\Login with Database.csproj.CoreCompileInputs.cache
+C:\Users\jeste\Documents\Personal Programming Projects\Login with Database\Login with Database\obj\Debug\Login with Database.exe
+C:\Users\jeste\Documents\Personal Programming Projects\Login with Database\Login with Database\obj\Debug\Login with Database.pdb
