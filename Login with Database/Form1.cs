@@ -19,7 +19,7 @@ namespace Login_with_Database
         public Form1()
         {
             InitializeComponent();
-            con.ConnectionString = @"Data Source = DESKTOP-71Q98DC; Initial Catalog = LoginScreen; Integrated Security = True";
+            con.ConnectionString = @"Data Source = DESKTOP-XXXXXXX; Initial Catalog = LoginScreen; Integrated Security = True";
         }
 
         private void tbUserEnter(object sender, EventArgs e)
